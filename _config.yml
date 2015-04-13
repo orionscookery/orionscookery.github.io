@@ -13,10 +13,10 @@ owner:
   avatar:         bio-photo.jpg
   email:          vance@orionscookery.com
   # Social networking links used in footer. Update and remove as you like.
-  instagram:	  orionskitchen
+  instagram:	  orionscookery
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-49321921-2
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -26,10 +26,6 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Sweets
-    url: /sweets/
-  - title: Catering
-    url: /catering/
   - title: Contact
     url: /contact/
 
