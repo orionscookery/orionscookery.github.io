@@ -8,16 +8,16 @@ modified: 2015-04-21
 # Nourish.  
 __Cajun Half Lobster Tail__  
 rosemary, thyme, and garlic marinade  
-cajun garlic butter, scallions  
+cajun garlic butter and scallions  
 
 __Curry Habanero Chicken__  
 rosemary and shallot infused brine  
 thai coconut habanero curry sauce  
-fried onions, scallions  
+fried onions and scallions  
 
 # Replenish.  
 __Craft Lemonade__  
-macerated balsamic strawberries basil  
+macerated balsamic strawberries and basil  
 			
 # Indulge.  
 __Chocolate Horchata de Leche Delight__  
