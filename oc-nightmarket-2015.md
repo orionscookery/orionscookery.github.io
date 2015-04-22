@@ -6,21 +6,21 @@ tags: [nightmarket, 626, oc]
 modified: 2015-04-21
 ---
 # Nourish.
-#### Cajun Half Lobster Tail
+__Cajun Half Lobster Tail__
 rosemary, thyme, and garlic marinade  
 cajun garlic butter, scallions  
 
-#### Curry Habanero Chicken
+__Curry Habanero Chicken__
 rosemary and shallot infused brine  
 thai coconut habanero curry sauce  
 fried onions, scallions  
 
 # Replenish.
-#### Craft Lemonade
+__Craft Lemonade__
 macerated balsamic strawberries basil  
 			
 # Indulge.
-#### Chocolate Horchata de Leche Delight
+__Chocolate Horchata de Leche Delight__
 chocolate mousse  
 horchata tapioca pudding  
 dulce de leche dripper  
