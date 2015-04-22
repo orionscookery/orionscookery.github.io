@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /oc-night-market-2015/
+permalink: /oc-nightmarket-2015/
 title: OC Nightmarket 2015
 tags: [nightmarket, 626, oc]
 modified: 2015-04-21
