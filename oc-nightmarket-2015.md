@@ -8,7 +8,7 @@ modified: 2015-04-21
 # Nourish  
 __Cajun Lobster Tail__  
 half tail marinated in rosemary, thyme, and garlic  
-brushed with cajun garlic butter on the grill
+grilled and drenched in cajun garlic butter  
 
 __Curry Habanero Chicken__  
 thai coconut habanero curry sauce  
